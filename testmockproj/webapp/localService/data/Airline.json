@@ -1,0 +1,122 @@
+[
+    {
+        "AirlineID": "eyw",
+        "Name": "Name1",
+        "CurrencyCode": "Curr1",
+        "CurrencyName": "CurrencyName1"
+    },
+    {
+        "AirlineID": "TwC",
+        "Name": "Name2",
+        "CurrencyCode": "Curr2",
+        "CurrencyName": "CurrencyName2"
+    },
+    {
+        "AirlineID": "Lku",
+        "Name": "Name3",
+        "CurrencyCode": "Curr3",
+        "CurrencyName": "CurrencyName3"
+    },
+    {
+        "AirlineID": "qMU",
+        "Name": "Name4",
+        "CurrencyCode": "Curr4",
+        "CurrencyName": "CurrencyName4"
+    },
+    {
+        "AirlineID": "Zkr",
+        "Name": "Name5",
+        "CurrencyCode": "Curr5",
+        "CurrencyName": "CurrencyName5"
+    },
+    {
+        "AirlineID": "gCI",
+        "Name": "Name6",
+        "CurrencyCode": "Curr6",
+        "CurrencyName": "CurrencyName6"
+    },
+    {
+        "AirlineID": "iLC",
+        "Name": "Name7",
+        "CurrencyCode": "Curr7",
+        "CurrencyName": "CurrencyName7"
+    },
+    {
+        "AirlineID": "Whj",
+        "Name": "Name8",
+        "CurrencyCode": "Curr8",
+        "CurrencyName": "CurrencyName8"
+    },
+    {
+        "AirlineID": "GWM",
+        "Name": "Name9",
+        "CurrencyCode": "Curr9",
+        "CurrencyName": "CurrencyName9"
+    },
+    {
+        "AirlineID": "oji",
+        "Name": "Name10",
+        "CurrencyCode": "Cur10",
+        "CurrencyName": "CurrencyName10"
+    },
+    {
+        "AirlineID": "Oyh",
+        "Name": "Name11",
+        "CurrencyCode": "Cur11",
+        "CurrencyName": "CurrencyName11"
+    },
+    {
+        "AirlineID": "IGj",
+        "Name": "Name12",
+        "CurrencyCode": "Cur12",
+        "CurrencyName": "CurrencyName12"
+    },
+    {
+        "AirlineID": "vhf",
+        "Name": "Name13",
+        "CurrencyCode": "Cur13",
+        "CurrencyName": "CurrencyName13"
+    },
+    {
+        "AirlineID": "WDG",
+        "Name": "Name14",
+        "CurrencyCode": "Cur14",
+        "CurrencyName": "CurrencyName14"
+    },
+    {
+        "AirlineID": "tcu",
+        "Name": "Name15",
+        "CurrencyCode": "Cur15",
+        "CurrencyName": "CurrencyName15"
+    },
+    {
+        "AirlineID": "DDt",
+        "Name": "Name16",
+        "CurrencyCode": "Cur16",
+        "CurrencyName": "CurrencyName16"
+    },
+    {
+        "AirlineID": "nxZ",
+        "Name": "Name17",
+        "CurrencyCode": "Cur17",
+        "CurrencyName": "CurrencyName17"
+    },
+    {
+        "AirlineID": "QKs",
+        "Name": "Name18",
+        "CurrencyCode": "Cur18",
+        "CurrencyName": "CurrencyName18"
+    },
+    {
+        "AirlineID": "mNY",
+        "Name": "Name19",
+        "CurrencyCode": "Cur19",
+        "CurrencyName": "CurrencyName19"
+    },
+    {
+        "AirlineID": "KJB",
+        "Name": "Name20",
+        "CurrencyCode": "Cur20",
+        "CurrencyName": "CurrencyName20"
+    }
+]

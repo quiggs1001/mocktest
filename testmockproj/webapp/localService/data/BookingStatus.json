@@ -1,0 +1,82 @@
+[
+    {
+        "BookingStatus": "A",
+        "BookingStatus_Text": "BookingStatus_Text1"
+    },
+    {
+        "BookingStatus": "V",
+        "BookingStatus_Text": "BookingStatus_Text2"
+    },
+    {
+        "BookingStatus": "Q",
+        "BookingStatus_Text": "BookingStatus_Text3"
+    },
+    {
+        "BookingStatus": "i",
+        "BookingStatus_Text": "BookingStatus_Text4"
+    },
+    {
+        "BookingStatus": "L",
+        "BookingStatus_Text": "BookingStatus_Text5"
+    },
+    {
+        "BookingStatus": "D",
+        "BookingStatus_Text": "BookingStatus_Text6"
+    },
+    {
+        "BookingStatus": "Q",
+        "BookingStatus_Text": "BookingStatus_Text7"
+    },
+    {
+        "BookingStatus": "a",
+        "BookingStatus_Text": "BookingStatus_Text8"
+    },
+    {
+        "BookingStatus": "k",
+        "BookingStatus_Text": "BookingStatus_Text9"
+    },
+    {
+        "BookingStatus": "Q",
+        "BookingStatus_Text": "BookingStatus_Text10"
+    },
+    {
+        "BookingStatus": "y",
+        "BookingStatus_Text": "BookingStatus_Text11"
+    },
+    {
+        "BookingStatus": "J",
+        "BookingStatus_Text": "BookingStatus_Text12"
+    },
+    {
+        "BookingStatus": "t",
+        "BookingStatus_Text": "BookingStatus_Text13"
+    },
+    {
+        "BookingStatus": "Z",
+        "BookingStatus_Text": "BookingStatus_Text14"
+    },
+    {
+        "BookingStatus": "N",
+        "BookingStatus_Text": "BookingStatus_Text15"
+    },
+    {
+        "BookingStatus": "c",
+        "BookingStatus_Text": "BookingStatus_Text16"
+    },
+    {
+        "BookingStatus": "i",
+        "BookingStatus_Text": "BookingStatus_Text17"
+    },
+    {
+        "BookingStatus": "r",
+        "BookingStatus_Text": "BookingStatus_Text18"
+    },
+    {
+        "BookingStatus": "j",
+        "BookingStatus_Text": "BookingStatus_Text19"
+    },
+    {
+        "BookingStatus": "k",
+        "BookingStatus_Text": "BookingStatus_Text20"
+    }
+]

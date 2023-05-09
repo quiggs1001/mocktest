@@ -1,0 +1,242 @@
+[
+    {
+        "Right": {
+            "Type": "Type4"
+        },
+        "Left": {
+            "Type": "Type1"
+        },
+        "Center": {
+            "Type": "Type15"
+        },
+        "Id": "9d0e862d-554e-55f6-8d47-5ec5d1f46831"
+    },
+    {
+        "Right": {
+            "Type": "Type13"
+        },
+        "Left": {
+            "Type": "Type10"
+        },
+        "Center": {
+            "Type": "Type15"
+        },
+        "Id": "e723bb9c-cd84-516e-80b1-ebd4ddc5d709"
+    },
+    {
+        "Right": {
+            "Type": "Type11"
+        },
+        "Left": {
+            "Type": "Type14"
+        },
+        "Center": {
+            "Type": "Type2"
+        },
+        "Id": "e4b7415f-017d-5007-a57b-308b8866ac43"
+    },
+    {
+        "Right": {
+            "Type": "Type15"
+        },
+        "Left": {
+            "Type": "Type17"
+        },
+        "Center": {
+            "Type": "Type17"
+        },
+        "Id": "788bac64-6be5-5378-ba13-9dc378bf9397"
+    },
+    {
+        "Right": {
+            "Type": "Type1"
+        },
+        "Left": {
+            "Type": "Type11"
+        },
+        "Center": {
+            "Type": "Type7"
+        },
+        "Id": "60955f2f-bcc0-5e40-b987-86d0c61524df"
+    },
+    {
+        "Right": {
+            "Type": "Type16"
+        },
+        "Left": {
+            "Type": "Type2"
+        },
+        "Center": {
+            "Type": "Type1"
+        },
+        "Id": "d66aec37-66bb-575e-b3d2-ffda408d030b"
+    },
+    {
+        "Right": {
+            "Type": "Type6"
+        },
+        "Left": {
+            "Type": "Type12"
+        },
+        "Center": {
+            "Type": "Type15"
+        },
+        "Id": "ec6af563-d3eb-5e04-93b8-cf9e7bfbe26b"
+    },
+    {
+        "Right": {
+            "Type": "Type10"
+        },
+        "Left": {
+            "Type": "Type12"
+        },
+        "Center": {
+            "Type": "Type5"
+        },
+        "Id": "505890af-a40b-5ae8-84af-cb9a9f465246"
+    },
+    {
+        "Right": {
+            "Type": "Type5"
+        },
+        "Left": {
+            "Type": "Type13"
+        },
+        "Center": {
+            "Type": "Type5"
+        },
+        "Id": "6a2fc7c7-088f-5ace-9836-c7d5391f7f53"
+    },
+    {
+        "Right": {
+            "Type": "Type10"
+        },
+        "Left": {
+            "Type": "Type16"
+        },
+        "Center": {
+            "Type": "Type6"
+        },
+        "Id": "ff168fec-7a70-5d30-93fc-8cd6ce877f18"
+    },
+    {
+        "Right": {
+            "Type": "Type19"
+        },
+        "Left": {
+            "Type": "Type14"
+        },
+        "Center": {
+            "Type": "Type16"
+        },
+        "Id": "78b8a54b-b6ca-5631-9c79-462a3bda30c2"
+    },
+    {
+        "Right": {
+            "Type": "Type8"
+        },
+        "Left": {
+            "Type": "Type9"
+        },
+        "Center": {
+            "Type": "Type8"
+        },
+        "Id": "ecfac8d1-184d-520e-9a36-5ef3dcb2de67"
+    },
+    {
+        "Right": {
+            "Type": "Type8"
+        },
+        "Left": {
+            "Type": "Type19"
+        },
+        "Center": {
+            "Type": "Type7"
+        },
+        "Id": "194650d3-f011-59e0-a0e6-6b65af6a52b7"
+    },
+    {
+        "Right": {
+            "Type": "Type11"
+        },
+        "Left": {
+            "Type": "Type8"
+        },
+        "Center": {
+            "Type": "Type20"
+        },
+        "Id": "fd0c956a-62e0-5beb-beaf-d3ad4ca7039e"
+    },
+    {
+        "Right": {
+            "Type": "Type20"
+        },
+        "Left": {
+            "Type": "Type12"
+        },
+        "Center": {
+            "Type": "Type5"
+        },
+        "Id": "860155c4-3e59-5c2f-897d-239239bd2477"
+    },
+    {
+        "Right": {
+            "Type": "Type20"
+        },
+        "Left": {
+            "Type": "Type7"
+        },
+        "Center": {
+            "Type": "Type14"
+        },
+        "Id": "1f15d88c-1371-510f-93d2-cb893aa78e0e"
+    },
+    {
+        "Right": {
+            "Type": "Type17"
+        },
+        "Left": {
+            "Type": "Type5"
+        },
+        "Center": {
+            "Type": "Type5"
+        },
+        "Id": "6361f1b3-3493-54a0-87be-9e1f36cab6e5"
+    },
+    {
+        "Right": {
+            "Type": "Type14"
+        },
+        "Left": {
+            "Type": "Type11"
+        },
+        "Center": {
+            "Type": "Type9"
+        },
+        "Id": "b8278f74-6536-5a42-b846-660b19cdb9a0"
+    },
+    {
+        "Right": {
+            "Type": "Type6"
+        },
+        "Left": {
+            "Type": "Type20"
+        },
+        "Center": {
+            "Type": "Type11"
+        },
+        "Id": "54ef31ea-3bb0-5cba-885a-d2db56609581"
+    },
+    {
+        "Right": {
+            "Type": "Type5"
+        },
+        "Left": {
+            "Type": "Type17"
+        },
+        "Center": {
+            "Type": "Type8"
+        },
+        "Id": "41713b31-daee-5643-b82f-5864d3b02757"
+    }
+]

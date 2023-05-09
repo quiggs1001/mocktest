@@ -1,0 +1,222 @@
+[
+    {
+        "AirlineID": "tvQ",
+        "ConnectionID": "wUFP",
+        "FlightDate": "/Date(920927350000)/",
+        "Price": 646676772041.246,
+        "CurrencyCode": "Curr1",
+        "PlaneType": "PlaneType1",
+        "MaximumSeats": 1415998655,
+        "OccupiedSeats": 1538330510,
+        "AirlineName": "AirlineName1"
+    },
+    {
+        "AirlineID": "HTb",
+        "ConnectionID": "PigP",
+        "FlightDate": "/Date(1035654235000)/",
+        "Price": 4793092375.621,
+        "CurrencyCode": "Curr2",
+        "PlaneType": "PlaneType2",
+        "MaximumSeats": 769159340,
+        "OccupiedSeats": 138993866,
+        "AirlineName": "AirlineName2"
+    },
+    {
+        "AirlineID": "WzC",
+        "ConnectionID": "JPLA",
+        "FlightDate": "/Date(8589104000)/",
+        "Price": 95177534036.338,
+        "CurrencyCode": "Curr3",
+        "PlaneType": "PlaneType3",
+        "MaximumSeats": 1278853419,
+        "OccupiedSeats": 1353269105,
+        "AirlineName": "AirlineName3"
+    },
+    {
+        "AirlineID": "tRK",
+        "ConnectionID": "vdax",
+        "FlightDate": "/Date(519791793000)/",
+        "Price": 675338809378.445,
+        "CurrencyCode": "Curr4",
+        "PlaneType": "PlaneType4",
+        "MaximumSeats": 848729085,
+        "OccupiedSeats": 659199757,
+        "AirlineName": "AirlineName4"
+    },
+    {
+        "AirlineID": "ZnI",
+        "ConnectionID": "pNhr",
+        "FlightDate": "/Date(964804520000)/",
+        "Price": 708771809237.077,
+        "CurrencyCode": "Curr5",
+        "PlaneType": "PlaneType5",
+        "MaximumSeats": 584899964,
+        "OccupiedSeats": 1345079628,
+        "AirlineName": "AirlineName5"
+    },
+    {
+        "AirlineID": "ral",
+        "ConnectionID": "AebB",
+        "FlightDate": "/Date(1148174669000)/",
+        "Price": 405009573325.514,
+        "CurrencyCode": "Curr6",
+        "PlaneType": "PlaneType6",
+        "MaximumSeats": 1666874115,
+        "OccupiedSeats": 437746137,
+        "AirlineName": "AirlineName6"
+    },
+    {
+        "AirlineID": "vYC",
+        "ConnectionID": "TIpT",
+        "FlightDate": "/Date(1418892251000)/",
+        "Price": 885716053890.064,
+        "CurrencyCode": "Curr7",
+        "PlaneType": "PlaneType7",
+        "MaximumSeats": 1107190751,
+        "OccupiedSeats": 971687460,
+        "AirlineName": "AirlineName7"
+    },
+    {
+        "AirlineID": "ECI",
+        "ConnectionID": "ZRls",
+        "FlightDate": "/Date(131318781000)/",
+        "Price": 287988308118.656,
+        "CurrencyCode": "Curr8",
+        "PlaneType": "PlaneType8",
+        "MaximumSeats": 1091322852,
+        "OccupiedSeats": 659582963,
+        "AirlineName": "AirlineName8"
+    },
+    {
+        "AirlineID": "mmL",
+        "ConnectionID": "ipqS",
+        "FlightDate": "/Date(12398188000)/",
+        "Price": 742893007118.254,
+        "CurrencyCode": "Curr9",
+        "PlaneType": "PlaneType9",
+        "MaximumSeats": 1782074410,
+        "OccupiedSeats": 136316541,
+        "AirlineName": "AirlineName9"
+    },
+    {
+        "AirlineID": "DBd",
+        "ConnectionID": "XNrb",
+        "FlightDate": "/Date(148290777000)/",
+        "Price": 746294069569.557,
+        "CurrencyCode": "Cur10",
+        "PlaneType": "PlaneTyp10",
+        "MaximumSeats": 2121873166,
+        "OccupiedSeats": 522915692,
+        "AirlineName": "AirlineName10"
+    },
+    {
+        "AirlineID": "iYt",
+        "ConnectionID": "IBkp",
+        "FlightDate": "/Date(819093895000)/",
+        "Price": 316349541535.601,
+        "CurrencyCode": "Cur11",
+        "PlaneType": "PlaneTyp11",
+        "MaximumSeats": 530987528,
+        "OccupiedSeats": 1572092082,
+        "AirlineName": "AirlineName11"
+    },
+    {
+        "AirlineID": "ECU",
+        "ConnectionID": "nWGb",
+        "FlightDate": "/Date(254320038000)/",
+        "Price": 697566499700.769,
+        "CurrencyCode": "Cur12",
+        "PlaneType": "PlaneTyp12",
+        "MaximumSeats": 1249568579,
+        "OccupiedSeats": 587314620,
+        "AirlineName": "AirlineName12"
+    },
+    {
+        "AirlineID": "jly",
+        "ConnectionID": "XEtA",
+        "FlightDate": "/Date(1253205111000)/",
+        "Price": 561115434858.948,
+        "CurrencyCode": "Cur13",
+        "PlaneType": "PlaneTyp13",
+        "MaximumSeats": 793434327,
+        "OccupiedSeats": 1970987157,
+        "AirlineName": "AirlineName13"
+    },
+    {
+        "AirlineID": "iCY",
+        "ConnectionID": "OXFM",
+        "FlightDate": "/Date(251788990000)/",
+        "Price": 684496968518.942,
+        "CurrencyCode": "Cur14",
+        "PlaneType": "PlaneTyp14",
+        "MaximumSeats": 174793031,
+        "OccupiedSeats": 535736736,
+        "AirlineName": "AirlineName14"
+    },
+    {
+        "AirlineID": "dzF",
+        "ConnectionID": "LGlj",
+        "FlightDate": "/Date(229407311000)/",
+        "Price": 835326005704.701,
+        "CurrencyCode": "Cur15",
+        "PlaneType": "PlaneTyp15",
+        "MaximumSeats": 185489049,
+        "OccupiedSeats": 1808619388,
+        "AirlineName": "AirlineName15"
+    },
+    {
+        "AirlineID": "QLW",
+        "ConnectionID": "kRTc",
+        "FlightDate": "/Date(629793994000)/",
+        "Price": 542743043275.55,
+        "CurrencyCode": "Cur16",
+        "PlaneType": "PlaneTyp16",
+        "MaximumSeats": 1227981083,
+        "OccupiedSeats": 1004938927,
+        "AirlineName": "AirlineName16"
+    },
+    {
+        "AirlineID": "BcF",
+        "ConnectionID": "lBUe",
+        "FlightDate": "/Date(1327330848000)/",
+        "Price": 883229461265.727,
+        "CurrencyCode": "Cur17",
+        "PlaneType": "PlaneTyp17",
+        "MaximumSeats": 1139747153,
+        "OccupiedSeats": 1363489682,
+        "AirlineName": "AirlineName17"
+    },
+    {
+        "AirlineID": "BaW",
+        "ConnectionID": "sFvd",
+        "FlightDate": "/Date(1159712852000)/",
+        "Price": 824437345145.27,
+        "CurrencyCode": "Cur18",
+        "PlaneType": "PlaneTyp18",
+        "MaximumSeats": 502333551,
+        "OccupiedSeats": 1953079212,
+        "AirlineName": "AirlineName18"
+    },
+    {
+        "AirlineID": "pux",
+        "ConnectionID": "Gmgu",
+        "FlightDate": "/Date(731621262000)/",
+        "Price": 661528069060.295,
+        "CurrencyCode": "Cur19",
+        "PlaneType": "PlaneTyp19",
+        "MaximumSeats": 1468679151,
+        "OccupiedSeats": 441682891,
+        "AirlineName": "AirlineName19"
+    },
+    {
+        "AirlineID": "rnG",
+        "ConnectionID": "HbKE",
+        "FlightDate": "/Date(445549043000)/",
+        "Price": 589718048693.612,
+        "CurrencyCode": "Cur20",
+        "PlaneType": "PlaneTyp20",
+        "MaximumSeats": 398486780,
+        "OccupiedSeats": 1853813820,
+        "AirlineName": "AirlineName20"
+    }
+]

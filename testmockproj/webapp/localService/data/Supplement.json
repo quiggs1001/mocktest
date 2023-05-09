@@ -1,0 +1,162 @@
+[
+    {
+        "SupplementID": "rYhzkVDXIm",
+        "SupplementText": "SupplementText1",
+        "SupplementCategory": "S1",
+        "SupplementCategoryText": "SupplementCategoryText1",
+        "Price": 396728449501.097,
+        "CurrencyCode": "Curr1"
+    },
+    {
+        "SupplementID": "arygZqEPwJ",
+        "SupplementText": "SupplementText2",
+        "SupplementCategory": "S2",
+        "SupplementCategoryText": "SupplementCategoryText2",
+        "Price": 984862604411.318,
+        "CurrencyCode": "Curr2"
+    },
+    {
+        "SupplementID": "uiZoUmLugE",
+        "SupplementText": "SupplementText3",
+        "SupplementCategory": "S3",
+        "SupplementCategoryText": "SupplementCategoryText3",
+        "Price": 900237147696.316,
+        "CurrencyCode": "Curr3"
+    },
+    {
+        "SupplementID": "bzOVshWZkk",
+        "SupplementText": "SupplementText4",
+        "SupplementCategory": "S4",
+        "SupplementCategoryText": "SupplementCategoryText4",
+        "Price": 600671947235.241,
+        "CurrencyCode": "Curr4"
+    },
+    {
+        "SupplementID": "sBeUeLsUXl",
+        "SupplementText": "SupplementText5",
+        "SupplementCategory": "S5",
+        "SupplementCategoryText": "SupplementCategoryText5",
+        "Price": 390663432423.025,
+        "CurrencyCode": "Curr5"
+    },
+    {
+        "SupplementID": "JFhzLgTqKO",
+        "SupplementText": "SupplementText6",
+        "SupplementCategory": "S6",
+        "SupplementCategoryText": "SupplementCategoryText6",
+        "Price": 894440129166.469,
+        "CurrencyCode": "Curr6"
+    },
+    {
+        "SupplementID": "aRCGYyqAAV",
+        "SupplementText": "SupplementText7",
+        "SupplementCategory": "S7",
+        "SupplementCategoryText": "SupplementCategoryText7",
+        "Price": 643791533773.765,
+        "CurrencyCode": "Curr7"
+    },
+    {
+        "SupplementID": "sezwyPCBKX",
+        "SupplementText": "SupplementText8",
+        "SupplementCategory": "S8",
+        "SupplementCategoryText": "SupplementCategoryText8",
+        "Price": 917907722294.33,
+        "CurrencyCode": "Curr8"
+    },
+    {
+        "SupplementID": "DILzMxYoSH",
+        "SupplementText": "SupplementText9",
+        "SupplementCategory": "S9",
+        "SupplementCategoryText": "SupplementCategoryText9",
+        "Price": 83849262446.165,
+        "CurrencyCode": "Curr9"
+    },
+    {
+        "SupplementID": "TrjlYblpIK",
+        "SupplementText": "SupplementText10",
+        "SupplementCategory": "10",
+        "SupplementCategoryText": "SupplementCategoryText10",
+        "Price": 524862018646.672,
+        "CurrencyCode": "Cur10"
+    },
+    {
+        "SupplementID": "HLSpfJVvzA",
+        "SupplementText": "SupplementText11",
+        "SupplementCategory": "11",
+        "SupplementCategoryText": "SupplementCategoryText11",
+        "Price": 905606297543.272,
+        "CurrencyCode": "Cur11"
+    },
+    {
+        "SupplementID": "AgbPjLZVEH",
+        "SupplementText": "SupplementText12",
+        "SupplementCategory": "12",
+        "SupplementCategoryText": "SupplementCategoryText12",
+        "Price": 95420800615.102,
+        "CurrencyCode": "Cur12"
+    },
+    {
+        "SupplementID": "zsJvQrkIRw",
+        "SupplementText": "SupplementText13",
+        "SupplementCategory": "13",
+        "SupplementCategoryText": "SupplementCategoryText13",
+        "Price": 261367392260.581,
+        "CurrencyCode": "Cur13"
+    },
+    {
+        "SupplementID": "mKCHlmnkXU",
+        "SupplementText": "SupplementText14",
+        "SupplementCategory": "14",
+        "SupplementCategoryText": "SupplementCategoryText14",
+        "Price": 344555842224.508,
+        "CurrencyCode": "Cur14"
+    },
+    {
+        "SupplementID": "bUhgLmiKhI",
+        "SupplementText": "SupplementText15",
+        "SupplementCategory": "15",
+        "SupplementCategoryText": "SupplementCategoryText15",
+        "Price": 218223194358.87,
+        "CurrencyCode": "Cur15"
+    },
+    {
+        "SupplementID": "dZdDfeJLtv",
+        "SupplementText": "SupplementText16",
+        "SupplementCategory": "16",
+        "SupplementCategoryText": "SupplementCategoryText16",
+        "Price": 52444433793.425,
+        "CurrencyCode": "Cur16"
+    },
+    {
+        "SupplementID": "BpmpvnAhgR",
+        "SupplementText": "SupplementText17",
+        "SupplementCategory": "17",
+        "SupplementCategoryText": "SupplementCategoryText17",
+        "Price": 425349313998.594,
+        "CurrencyCode": "Cur17"
+    },
+    {
+        "SupplementID": "TvvkpCOrJw",
+        "SupplementText": "SupplementText18",
+        "SupplementCategory": "18",
+        "SupplementCategoryText": "SupplementCategoryText18",
+        "Price": 10253794491.291,
+        "CurrencyCode": "Cur18"
+    },
+    {
+        "SupplementID": "XFWRWcmfNf",
+        "SupplementText": "SupplementText19",
+        "SupplementCategory": "19",
+        "SupplementCategoryText": "SupplementCategoryText19",
+        "Price": 543967539211.735,
+        "CurrencyCode": "Cur19"
+    },
+    {
+        "SupplementID": "jexjYNmEwH",
+        "SupplementText": "SupplementText20",
+        "SupplementCategory": "20",
+        "SupplementCategoryText": "SupplementCategoryText20",
+        "Price": 323921108618.378,
+        "CurrencyCode": "Cur20"
+    }
+]

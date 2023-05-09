@@ -1,0 +1,142 @@
+[
+    {
+        "AirportID": "gAm",
+        "Name": "Name1",
+        "City": "City1",
+        "CountryCode": "Co1",
+        "CountryCodeText": "CountryCodeText1"
+    },
+    {
+        "AirportID": "uto",
+        "Name": "Name2",
+        "City": "City2",
+        "CountryCode": "Co2",
+        "CountryCodeText": "CountryCodeText2"
+    },
+    {
+        "AirportID": "ezB",
+        "Name": "Name3",
+        "City": "City3",
+        "CountryCode": "Co3",
+        "CountryCodeText": "CountryCodeText3"
+    },
+    {
+        "AirportID": "NKd",
+        "Name": "Name4",
+        "City": "City4",
+        "CountryCode": "Co4",
+        "CountryCodeText": "CountryCodeText4"
+    },
+    {
+        "AirportID": "lRd",
+        "Name": "Name5",
+        "City": "City5",
+        "CountryCode": "Co5",
+        "CountryCodeText": "CountryCodeText5"
+    },
+    {
+        "AirportID": "omg",
+        "Name": "Name6",
+        "City": "City6",
+        "CountryCode": "Co6",
+        "CountryCodeText": "CountryCodeText6"
+    },
+    {
+        "AirportID": "Chq",
+        "Name": "Name7",
+        "City": "City7",
+        "CountryCode": "Co7",
+        "CountryCodeText": "CountryCodeText7"
+    },
+    {
+        "AirportID": "fFN",
+        "Name": "Name8",
+        "City": "City8",
+        "CountryCode": "Co8",
+        "CountryCodeText": "CountryCodeText8"
+    },
+    {
+        "AirportID": "cMP",
+        "Name": "Name9",
+        "City": "City9",
+        "CountryCode": "Co9",
+        "CountryCodeText": "CountryCodeText9"
+    },
+    {
+        "AirportID": "cIN",
+        "Name": "Name10",
+        "City": "City10",
+        "CountryCode": "C10",
+        "CountryCodeText": "CountryCodeText10"
+    },
+    {
+        "AirportID": "ZHP",
+        "Name": "Name11",
+        "City": "City11",
+        "CountryCode": "C11",
+        "CountryCodeText": "CountryCodeText11"
+    },
+    {
+        "AirportID": "BLf",
+        "Name": "Name12",
+        "City": "City12",
+        "CountryCode": "C12",
+        "CountryCodeText": "CountryCodeText12"
+    },
+    {
+        "AirportID": "xsO",
+        "Name": "Name13",
+        "City": "City13",
+        "CountryCode": "C13",
+        "CountryCodeText": "CountryCodeText13"
+    },
+    {
+        "AirportID": "hXc",
+        "Name": "Name14",
+        "City": "City14",
+        "CountryCode": "C14",
+        "CountryCodeText": "CountryCodeText14"
+    },
+    {
+        "AirportID": "dba",
+        "Name": "Name15",
+        "City": "City15",
+        "CountryCode": "C15",
+        "CountryCodeText": "CountryCodeText15"
+    },
+    {
+        "AirportID": "XbY",
+        "Name": "Name16",
+        "City": "City16",
+        "CountryCode": "C16",
+        "CountryCodeText": "CountryCodeText16"
+    },
+    {
+        "AirportID": "rHR",
+        "Name": "Name17",
+        "City": "City17",
+        "CountryCode": "C17",
+        "CountryCodeText": "CountryCodeText17"
+    },
+    {
+        "AirportID": "zFd",
+        "Name": "Name18",
+        "City": "City18",
+        "CountryCode": "C18",
+        "CountryCodeText": "CountryCodeText18"
+    },
+    {
+        "AirportID": "yoc",
+        "Name": "Name19",
+        "City": "City19",
+        "CountryCode": "C19",
+        "CountryCodeText": "CountryCodeText19"
+    },
+    {
+        "AirportID": "AoM",
+        "Name": "Name20",
+        "City": "City20",
+        "CountryCode": "C20",
+        "CountryCodeText": "CountryCodeText20"
+    }
+]
